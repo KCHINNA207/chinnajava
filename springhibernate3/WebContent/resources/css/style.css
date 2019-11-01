@@ -6,7 +6,7 @@ html, body{
 
 table {   
 	border-collapse:collapse;
-	border-bottom:1px solid gray;
+	border-bottom:1px solid blue;
 	font-family: Tahoma,Verdana,Segoe,sans-serif;
 	width:72%;
 }
